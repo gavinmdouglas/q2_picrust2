@@ -4,7 +4,7 @@ channels:
 - bioconda
 dependencies:
   - qiime2-amplicon
+  - picrust2=2.5.3
   - pip
-  - picrust2
   - pip:
     - q2-picrust2@git+https://github.com/picrust/q2-picrust2.git@master
